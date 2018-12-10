@@ -3,3 +3,4 @@
 /packages/fragment-common/node_modules
 /packages/fragment-contacts/node_modules
 /packages/fragment-header/node_modules
+package-lock.json
